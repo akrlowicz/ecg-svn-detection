@@ -13,5 +13,5 @@ Tried SVM, XGBoost, LD, SMOTE and Bledning methods.
 Didn't achieve great results, nevertheless learned a lot of things about ECG signal.
 
 # Literature
-[1] "Detection of supraventricular and ventricular ectopic beats using a single lead ECG", Philip De Chazal, IEEE, 2013, URL: https://ieeexplore.ieee.org/document/6609433
-[2] "Heartbeat Classification Using Normalized RR Intervals and Morphological Features", Chun-Cheng Lin and Chun-Min Yang, Mathematical Problems in Egineering, 2014, URL: https://www.hindawi.com/journals/mpe/2014/712474/
+1. "Detection of supraventricular and ventricular ectopic beats using a single lead ECG", Philip De Chazal, IEEE, 2013, URL: https://ieeexplore.ieee.org/document/6609433
+2. "Heartbeat Classification Using Normalized RR Intervals and Morphological Features", Chun-Cheng Lin and Chun-Min Yang, Mathematical Problems in Egineering, 2014, URL: https://www.hindawi.com/journals/mpe/2014/712474/
